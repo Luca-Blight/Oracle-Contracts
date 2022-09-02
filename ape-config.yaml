@@ -1,0 +1,17 @@
+ethereum:
+  default_network: local
+  local:
+    default_provider: anvil
+
+# name: apeworx-starter-kit
+# contracts_folder: contracts
+# deployments:
+#   ethereum:
+#     local:
+#       - contract_type: KeepersConsumers
+#         address: "0x5fbdb2315678afecb367f032d93f642f64180aa3"
+#       # - contract_type: VRFCoordinatorV2
+#       #   address: "0x6168499c0cFfCaCD319c818142124B7A15E857ab"
+#       # - contract_type: LinkToken
+#       #   address: "0x01be23585060835e02b77ef475b0cc51aa1e0709"
+# default_ecosystem: ethereum
